@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22
-- Synced: 2026-08-27T08:07:27.867Z
+- Synced: 2026-08-27T08:08:13.230Z
 
 ## Problem Description
 
