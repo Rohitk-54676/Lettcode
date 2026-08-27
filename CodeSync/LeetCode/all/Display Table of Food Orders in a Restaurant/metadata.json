@@ -1,0 +1,18 @@
+{
+  "submissionTimestamp": "2026-08-27T08:16:48.955Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Ordered Set"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "Display Table of Food Orders in a Restaurant",
+  "problemUrl": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/",
+  "submissionId": "vxu58o"
+}
