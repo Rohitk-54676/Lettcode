@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Display Table of Food Orders in a Restaurant
+ * URL: https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Hash Table, String, Sorting, Ordered Set
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-08-27T08:16:48.955Z
+ */
+
+class Solution {
+public:
+    vector<vector<string>> displayTable(vector<vector<string>>& orders) {
+        
+    }
+};
