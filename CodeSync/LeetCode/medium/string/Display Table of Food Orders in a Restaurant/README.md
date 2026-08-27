@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/
-- Synced: 2026-08-27T08:42:19.543Z
+- Synced: 2026-08-27T08:43:29.549Z
 
 ## Problem Description
 
