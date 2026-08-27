@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Maximum Points You Can Obtain from Cards
+ * URL: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Sliding Window, Prefix Sum
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-08-27T08:16:21.837Z
+ */
+
+class Solution {
+public:
+    int maxScore(vector<int>& cardPoints, int k) {
+        
+    }
+};
