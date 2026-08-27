@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-08-27T08:06:42.059Z",
+  "submissionTimestamp": "2026-08-27T08:07:27.867Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -10,5 +10,5 @@
   "language": "Daily Question",
   "problemTitle": "Check Divisibility by Digit Sum and Product",
   "problemUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22",
-  "submissionId": "hcg6n1"
+  "submissionId": "c8w5n"
 }
