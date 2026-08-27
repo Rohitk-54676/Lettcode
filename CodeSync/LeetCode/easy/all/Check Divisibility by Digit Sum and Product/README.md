@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 7.71 MB
 - Problem URL: https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/submissions/2121668196/?envType=daily-question&envId=2026-08-22
-- Synced: 2026-08-27T08:13:40.511Z
+- Synced: 2026-08-27T08:14:49.741Z
 
 ## Problem Description
 
