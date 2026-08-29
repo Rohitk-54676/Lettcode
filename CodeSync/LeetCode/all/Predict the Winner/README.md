@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01
-- Synced: 2026-08-29T14:49:19.339Z
+- Synced: 2026-08-29T14:50:05.795Z
 
 ## Problem Description
 
