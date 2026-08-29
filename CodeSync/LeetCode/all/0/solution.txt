@@ -1,18 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/?envType=daily-question&envId=2026-08-22
+ * URL: https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01
  * Language: Daily Question
- * Difficulty: Easy
- * Topics: Math
+ * Difficulty: Medium
+ * Topics: Array, Math, Dynamic Programming, Recursion, Minimax, Game Theory, Zero-Sum Game
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-08-27T08:04:22.614Z
+ * Synced: 2026-08-29T14:48:10.762Z
  */
 
 class Solution {
 public:
-    bool checkDivisibility(int n) {
+    bool predictTheWinner(vector<int>& nums) {
         
     }
 };
