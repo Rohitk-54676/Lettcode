@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 10.47 MB
 - Problem URL: https://leetcode.com/problems/stone-game/?envType=daily-question&envId=2026-08-02
-- Synced: 2026-08-29T14:52:41.623Z
+- Synced: 2026-08-29T15:29:34.109Z
 
 ## Problem Description
 
