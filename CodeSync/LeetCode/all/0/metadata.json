@@ -1,14 +1,20 @@
 {
-  "submissionTimestamp": "2026-08-27T08:04:22.614Z",
+  "submissionTimestamp": "2026-08-29T14:48:10.762Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "difficulty": "Medium",
   "tags": [
-    "Math"
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
   ],
   "platform": "LeetCode",
   "language": "Daily Question",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/?envType=daily-question&envId=2026-08-22",
-  "submissionId": "8j737q"
+  "problemUrl": "https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01",
+  "submissionId": "akol9i"
 }
