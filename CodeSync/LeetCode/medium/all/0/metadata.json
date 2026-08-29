@@ -1,0 +1,20 @@
+{
+  "submissionTimestamp": "2026-08-29T14:48:10.762Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "platform": "LeetCode",
+  "language": "Daily Question",
+  "problemTitle": "0",
+  "problemUrl": "https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01",
+  "submissionId": "akol9i"
+}
