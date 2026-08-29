@@ -1,18 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01
+ * URL: https://leetcode.com/problems/stone-game/description/?envType=daily-question&envId=2026-08-02
  * Language: Daily Question
  * Difficulty: Medium
- * Topics: Array, Math, Dynamic Programming, Recursion, Minimax, Game Theory, Zero-Sum Game
+ * Topics: Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-08-29T14:48:10.762Z
+ * Synced: 2026-08-29T14:50:15.859Z
  */
 
 class Solution {
 public:
-    bool predictTheWinner(vector<int>& nums) {
+    bool stoneGame(vector<int>& piles) {
         
     }
 };
