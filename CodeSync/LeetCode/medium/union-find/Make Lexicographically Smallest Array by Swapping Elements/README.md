@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2026-08-29
-- Synced: 2026-08-29T14:46:47.389Z
+- Synced: 2026-08-29T14:47:32.458Z
 
 ## Problem Description
 
