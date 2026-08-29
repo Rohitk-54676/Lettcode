@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-08-29T14:46:47.389Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Union-Find",
+    "Sorting"
+  ],
+  "platform": "LeetCode",
+  "language": "Daily Question",
+  "problemTitle": "Make Lexicographically Smallest Array by Swapping Elements",
+  "problemUrl": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2026-08-29",
+  "submissionId": "pw3r3g"
+}
