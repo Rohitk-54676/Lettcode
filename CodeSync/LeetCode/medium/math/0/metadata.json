@@ -1,16 +1,20 @@
 {
-  "submissionTimestamp": "2026-08-27T08:15:37.704Z",
+  "submissionTimestamp": "2026-08-29T14:48:10.762Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
-    "Linked List",
+    "Array",
     "Math",
-    "Recursion"
+    "Dynamic Programming",
+    "Recursion",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
   ],
   "platform": "LeetCode",
-  "language": "C",
+  "language": "Daily Question",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/add-two-numbers/description/",
-  "submissionId": "9jfmy5"
+  "problemUrl": "https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01",
+  "submissionId": "akol9i"
 }
