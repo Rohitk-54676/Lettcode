@@ -1,0 +1,19 @@
+{
+  "submissionTimestamp": "2026-08-29T14:51:05.626Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "platform": "LeetCode",
+  "language": "Daily Question",
+  "problemTitle": "Stone Game",
+  "problemUrl": "https://leetcode.com/problems/stone-game/?envType=daily-question&envId=2026-08-02",
+  "submissionId": "vigga1"
+}
