@@ -7,7 +7,7 @@
  * Topics: Array, Union-Find, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-08-29T14:46:47.389Z
+ * Synced: 2026-08-29T14:47:32.458Z
  */
 
 class Solution {
