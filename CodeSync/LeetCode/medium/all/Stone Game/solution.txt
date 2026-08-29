@@ -7,7 +7,7 @@
  * Topics: Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game
  * Runtime: 0 ms
  * Memory: 10.47 MB
- * Synced: 2026-08-29T14:52:41.623Z
+ * Synced: 2026-08-29T15:29:34.109Z
  */
 
 class Solution {
