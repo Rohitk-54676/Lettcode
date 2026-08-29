@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Stone Game
+ * URL: https://leetcode.com/problems/stone-game/?envType=daily-question&envId=2026-08-02
+ * Language: Daily Question
+ * Difficulty: Medium
+ * Topics: Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-08-29T14:51:05.626Z
+ */
+
+class Solution {
+public:
+    bool stoneGame(vector<int>& piles) {
+        
+    }
+};
