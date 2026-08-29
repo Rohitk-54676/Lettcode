@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-08-29T14:48:10.762Z",
+  "submissionTimestamp": "2026-08-29T14:50:15.859Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
@@ -7,7 +7,6 @@
     "Array",
     "Math",
     "Dynamic Programming",
-    "Recursion",
     "Minimax",
     "Game Theory",
     "Zero-Sum Game"
@@ -15,6 +14,6 @@
   "platform": "LeetCode",
   "language": "Daily Question",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01",
-  "submissionId": "akol9i"
+  "problemUrl": "https://leetcode.com/problems/stone-game/description/?envType=daily-question&envId=2026-08-02",
+  "submissionId": "eeg7o"
 }
