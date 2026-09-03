@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Construct Uniform Parity Array II
- * URL: https://leetcode.com/problems/construct-uniform-parity-array-ii/?envType=daily-question&envId=2026-09-03
+ * URL: https://leetcode.com/problems/construct-uniform-parity-array-ii/submissions/2129184903/?envType=daily-question&envId=2026-09-03
  * Language: Daily Question
  * Difficulty: Medium
  * Topics: Array, Math
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-09-03T04:55:31.722Z
+ * Memory: 165.76 MB
+ * Synced: 2026-09-03T04:56:16.723Z
  */
 
 if(mo==INT_MAX){
