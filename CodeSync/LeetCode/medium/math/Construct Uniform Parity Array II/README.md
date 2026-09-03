@@ -5,9 +5,9 @@
 - Difficulty: Medium
 - Topics: Array, Math
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/construct-uniform-parity-array-ii/?envType=daily-question&envId=2026-09-03
-- Synced: 2026-09-03T04:55:31.722Z
+- Memory: 165.76 MB
+- Problem URL: https://leetcode.com/problems/construct-uniform-parity-array-ii/submissions/2129184903/?envType=daily-question&envId=2026-09-03
+- Synced: 2026-09-03T04:56:16.723Z
 
 ## Problem Description
 
