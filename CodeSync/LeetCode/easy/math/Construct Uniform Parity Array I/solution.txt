@@ -1,0 +1,26 @@
+/*
+ * Platform: LeetCode
+ * Problem: Construct Uniform Parity Array I
+ * URL: https://leetcode.com/problems/construct-uniform-parity-array-i/submissions/2130419065/?envType=daily-question&envId=2026-09-02
+ * Language: Daily Question
+ * Difficulty: Easy
+ * Topics: Array, Math
+ * Runtime: 0 ms
+ * Memory: 30.15 MB
+ * Synced: 2026-09-04T07:11:54.947Z
+ */
+
+if(i%2==1){
+                mo=min(mo,i);
+            }
+        }
+        if(mo==INT_MAX){
+            return true;
+        }
+        return true;
+        for(int i:nums1){
+        int mo=INT_MAX;
+    bool uniformArray(vector<int>& nums1) {
+public:
+class Solution {
+    }
