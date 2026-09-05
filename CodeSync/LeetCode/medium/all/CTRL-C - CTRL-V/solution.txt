@@ -7,7 +7,7 @@
  * Topics: Array, Prefix Sum
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-05T14:34:12.764Z
+ * Synced: 2026-09-05T14:34:59.581Z
  */
 
 class Solution {
@@ -19,6 +19,7 @@ public:
         for(int i=n-2;i>=0;--i){
             revmin[i]=min(nums[i],revmin[i+1]);
         }
-    }
-        int start
-};
+        int start=nums[0];
+        for(int i=0;i<n;i++){
+            start=max(start,nums)
+        }
