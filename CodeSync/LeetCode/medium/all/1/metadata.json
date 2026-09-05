@@ -1,15 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-05T14:37:15.669Z",
+  "submissionTimestamp": "2026-09-05T14:39:57.178Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
-    "Array",
-    "Prefix Sum"
+    "Linked List",
+    "Math",
+    "Recursion"
   ],
   "platform": "LeetCode",
-  "language": "Daily Question",
+  "language": "Math",
   "problemTitle": "1",
-  "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05",
-  "submissionId": "yjj35b"
+  "problemUrl": "https://leetcode.com/problems/add-two-numbers/description/?envType=problem-list-v2&envId=math",
+  "submissionId": "kyt36r"
 }
