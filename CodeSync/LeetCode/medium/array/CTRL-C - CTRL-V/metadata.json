@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-09-05T14:35:46.873Z",
-  "runtime": "0 ms",
+  "submissionTimestamp": "2026-09-05T14:38:04.419Z",
+  "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Daily Question",
   "problemTitle": "CTRL-C + CTRL-V",
-  "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/?envType=daily-question&envId=2026-09-05",
-  "submissionId": "p82ha8"
+  "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05",
+  "submissionId": "gdwnvh"
 }
