@@ -1,18 +1,25 @@
 /*
  * Platform: LeetCode
  * Problem: 1
- * URL: https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04
+ * URL: https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05
  * Language: Daily Question
- * Difficulty: Easy
+ * Difficulty: Medium
  * Topics: Array, Prefix Sum
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-05T14:36:30.813Z
+ * Synced: 2026-09-05T14:37:15.669Z
  */
 
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        
-    }
-};
+        int n=nums.size();
+        vector<int> revmin(n);
+        revmin[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;--i){
+            revmin[i]=min(nums[i],revmin[i+1]);
+        }
+        int start=nums[0];
+        for(int i=0;i<n;i++){
+            start=max(start,nums[i]);
+            if(start-revmin[i]<=k){
