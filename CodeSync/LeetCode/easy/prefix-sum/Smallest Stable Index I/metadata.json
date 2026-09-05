@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-09-05T14:37:19.425Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-09-05T14:38:05.418Z",
+  "runtime": "0 ms",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -11,5 +11,5 @@
   "language": "Daily Question",
   "problemTitle": "Smallest Stable Index I",
   "problemUrl": "https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04",
-  "submissionId": "9amqi4"
+  "submissionId": "wicq6t"
 }
