@@ -1,0 +1,15 @@
+{
+  "submissionTimestamp": "2026-09-05T14:36:30.813Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "platform": "LeetCode",
+  "language": "Daily Question",
+  "problemTitle": "1",
+  "problemUrl": "https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04",
+  "submissionId": "j32osy"
+}
