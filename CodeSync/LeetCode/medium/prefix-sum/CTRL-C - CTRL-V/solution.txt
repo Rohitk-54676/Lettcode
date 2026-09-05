@@ -5,21 +5,19 @@
  * Language: Daily Question
  * Difficulty: Medium
  * Topics: Array, Prefix Sum
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-05T14:34:59.581Z
+ * Synced: 2026-09-05T14:35:46.873Z
  */
 
-class Solution {
-public:
-    int firstStableIndex(vector<int>& nums, int k) {
-        int n=nums.size();
-        vector<int> revmin(n);
-        revmin[n-1]=nums[n-1];
-        for(int i=n-2;i>=0;--i){
-            revmin[i]=min(nums[i],revmin[i+1]);
-        }
+}
         int start=nums[0];
         for(int i=0;i<n;i++){
-            start=max(start,nums)
+            start=max(start,nums[i]);
+            if(start-revmin[i]<=k){
+                return i;
+            }
         }
+    }
+        return -1;
+};
