@@ -4,10 +4,10 @@
 - Language: Daily Question
 - Difficulty: Medium
 - Topics: Array, Prefix Sum
-- Runtime: 0 ms
+- Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/smallest-stable-index-ii/?envType=daily-question&envId=2026-09-05
-- Synced: 2026-09-05T14:35:46.873Z
+- Problem URL: https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05
+- Synced: 2026-09-05T14:38:04.419Z
 
 ## Problem Description
 
