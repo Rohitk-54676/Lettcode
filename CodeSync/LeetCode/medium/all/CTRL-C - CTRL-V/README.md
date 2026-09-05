@@ -6,8 +6,8 @@
 - Topics: Array, Prefix Sum
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05
-- Synced: 2026-09-05T14:31:08.421Z
+- Problem URL: https://leetcode.com/problems/smallest-stable-index-ii/?envType=daily-question&envId=2026-09-05
+- Synced: 2026-09-05T14:31:54.514Z
 
 ## Problem Description
 
