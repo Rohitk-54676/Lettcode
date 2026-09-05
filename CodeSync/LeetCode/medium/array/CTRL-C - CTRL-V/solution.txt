@@ -1,23 +1,21 @@
 /*
  * Platform: LeetCode
  * Problem: CTRL-C + CTRL-V
- * URL: https://leetcode.com/problems/smallest-stable-index-ii/?envType=daily-question&envId=2026-09-05
+ * URL: https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05
  * Language: Daily Question
  * Difficulty: Medium
  * Topics: Array, Prefix Sum
- * Runtime: 0 ms
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-05T14:35:46.873Z
+ * Synced: 2026-09-05T14:38:04.419Z
  */
 
-}
-        int start=nums[0];
-        for(int i=0;i<n;i++){
+for(int i=0;i<n;i++){
             start=max(start,nums[i]);
             if(start-revmin[i]<=k){
                 return i;
             }
         }
-    }
         return -1;
+    }
 };
