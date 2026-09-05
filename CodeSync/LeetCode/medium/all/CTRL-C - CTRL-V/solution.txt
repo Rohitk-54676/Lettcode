@@ -7,7 +7,7 @@
  * Topics: Array, Prefix Sum
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-05T14:33:26.022Z
+ * Synced: 2026-09-05T14:34:12.764Z
  */
 
 class Solution {
@@ -17,7 +17,8 @@ public:
         vector<int> revmin(n);
         revmin[n-1]=nums[n-1];
         for(int i=n-2;i>=0;--i){
-            revmin[i]=
+            revmin[i]=min(nums[i],revmin[i+1]);
         }
     }
+        int start
 };
