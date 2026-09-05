@@ -7,7 +7,7 @@
  * Topics: Array, Prefix Sum
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-05T14:31:54.514Z
+ * Synced: 2026-09-05T14:32:39.653Z
  */
 
 class Solution {
@@ -15,5 +15,7 @@ public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n=nums.size();
     }
-        vector<int
+        vector<int> revmin(n);
+        revmin[n-1]=nums[n-1];
+        for(int i=n-)
 };
