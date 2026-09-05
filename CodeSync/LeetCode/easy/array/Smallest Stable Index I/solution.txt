@@ -7,7 +7,7 @@
  * Topics: Array, Prefix Sum
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-05T14:38:05.418Z
+ * Synced: 2026-09-05T14:38:51.417Z
  */
 
 vector<int> revmin(n);
