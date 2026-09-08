@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: Math
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-08
-- Synced: 2026-09-08T14:35:41.320Z
+- Memory: 8.60 MB
+- Problem URL: https://leetcode.com/problems/count-commas-in-range/submissions/2135223124/?envType=daily-question&envId=2026-09-08
+- Synced: 2026-09-08T14:36:26.607Z
 
 ## Problem Description
 
