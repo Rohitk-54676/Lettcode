@@ -7,7 +7,7 @@
  * Topics: Math, Greedy
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-09T11:29:22.804Z
+ * Synced: 2026-09-09T11:31:33.328Z
  */
 
 //     }
