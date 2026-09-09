@@ -4,10 +4,10 @@
 - Language: C
 - Difficulty: Unknown
 - Topics: Uncategorized
-- Runtime: 0 ms
-- Memory: 165.76 MB
-- Problem URL: https://leetcode.com/submissions/detail/2129184903/
-- Synced: 2026-09-09T11:18:38.631Z
+- Runtime: 7 ms
+- Memory: 202.56 MB
+- Problem URL: https://leetcode.com/submissions/detail/2131815606/
+- Synced: 2026-09-09T11:20:03.158Z
 
 ## Problem Description
 
