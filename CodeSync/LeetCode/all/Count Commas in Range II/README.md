@@ -4,10 +4,10 @@
 - Language: Daily Question
 - Difficulty: Medium
 - Topics: Math
-- Runtime: 0 ms
+- Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/count-commas-in-range-ii/?envType=daily-question&envId=2026-09-09
-- Synced: 2026-09-09T09:07:31.230Z
+- Synced: 2026-09-09T09:08:16.516Z
 
 ## Problem Description
 
