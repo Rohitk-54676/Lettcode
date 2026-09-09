@@ -2,17 +2,17 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Hard
-- Topics: Math, String, Dynamic Programming
+- Difficulty: Medium
+- Topics: Array, Dynamic Programming, Binary Indexed Tree, Segment Tree
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/count-of-integers/description/
-- Synced: 2026-09-09T10:15:14.442Z
+- Problem URL: https://leetcode.com/problems/count-number-of-teams/description/
+- Synced: 2026-09-09T11:13:35.774Z
 
 ## Problem Description
 
-You are given two numeric strings num1 and num2 and two integers max_sum and min_sum. We denote an integer x to be good if: num1 <= x <= num2 min_sum <= digit_sum(x) <= max_sum. Return the number of good integers. Since the answer may be large, return it modulo 109 + 7. Note that digit_sum(x) denotes the sum of the digits of x. Example 1: Input: num1 = "1", num2 = "12", min_sum = 1, max_sum = 8 Output: 11 Explanation: There are 11 integers whose sum of digits lies between 1 and 8 are 1,2,3,4,5,6,7,8,10,11, and 12. Thus, we return 11. Example 2: Input: num1 = "1", num2 = "5", min_sum = 1, max_sum = 5 Output: 5 Explanation: The 5 integers whose sum of digits lies between 1 and 5 are 1,2,3,4, and 5. Thus, we return 5. Constraints: 1 <= num1 <= num2 <= 1022 1 <= min_sum <= max_sum <= 400
+There are n soldiers standing in a line. Each soldier is assigned a unique rating value. You have to form a team of 3 soldiers amongst them under the following rules: Choose 3 soldiers with index (i, j, k) with rating (rating[i], rating[j], rating[k]). A team is valid if: (rating[i] < rating[j] < rating[k]) or (rating[i] > rating[j] > rating[k]) where (0 <= i < j < k < n). Return the number of teams you can form given the conditions. (soldiers can be part of multiple teams). Example 1: Input: rating = [2,5,3,4,1] Output: 3 Explanation: We can form three teams given the conditions. (2,3,4), (5,4,1), (5,3,1). Example 2: Input: rating = [2,1,3] Output: 0 Explanation: We can't form any team given the conditions. Example 3: Input: rating = [1,2,3,4] Output: 4 Constraints: n == rating.length 3 <= n <= 1000 1 <= rating[i] <= 105 All the integers in rating are unique.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Math, String, Dynamic Programming. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Dynamic Programming, Binary Indexed Tree, Segment Tree. Review the synced source file for the implementation details.
