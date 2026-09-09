@@ -1,0 +1,15 @@
+{
+  "submissionTimestamp": "2026-09-09T11:21:06.748Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Greedy"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "Monotone Increasing Digits",
+  "problemUrl": "https://leetcode.com/problems/monotone-increasing-digits/",
+  "submissionId": "loj5xp"
+}
