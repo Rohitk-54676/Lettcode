@@ -1,18 +1,27 @@
 /*
  * Platform: LeetCode
  * Problem: 2
- * URL: https://leetcode.com/problems/count-of-integers/description/
+ * URL: https://leetcode.com/problems/count-number-of-teams/description/
  * Language: Problem List
- * Difficulty: Hard
- * Topics: Math, String, Dynamic Programming
+ * Difficulty: Medium
+ * Topics: Array, Dynamic Programming, Binary Indexed Tree, Segment Tree
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-09T10:15:14.442Z
+ * Synced: 2026-09-09T11:13:35.774Z
  */
 
 class Solution {
 public:
-    int count(string num1, string num2, int min_sum, int max_sum) {
-        
-    }
-};
+    int numTeams(vector<int>& rating) {
+        int result=0;
+        for(int i=0;i<rating.size();i++){
+            int count=0;
+            int prev=rating[i];
+            for(int j=i+1;j<rating.size();j++){
+                if(prev<rating[j]){
+                    count++;
+                    prev=rating[j];
+                }else if(rating[i]<rating[j]){
+                    prev=rating[j];
+                }
+                if(count==2)break;
