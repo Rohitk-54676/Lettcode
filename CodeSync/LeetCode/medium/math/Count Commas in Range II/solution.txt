@@ -5,13 +5,12 @@
  * Language: Daily Question
  * Difficulty: Medium
  * Topics: Math
- * Runtime: 0 ms
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-09T09:07:31.230Z
+ * Synced: 2026-09-09T09:08:16.516Z
  */
 
 }
-            result+=(n-999999)*2;
         if(n>=1000000){
             n=999999999;
 
@@ -26,12 +25,3 @@
         long long result=0;
 class Solution {
 public:
-            n=999999;
-        }
-        if(n>=1000){
-            result+=n-999;
-        }
-        return result;
-        
-    }
-};
