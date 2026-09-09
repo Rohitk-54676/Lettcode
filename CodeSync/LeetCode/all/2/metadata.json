@@ -1,16 +1,17 @@
 {
-  "submissionTimestamp": "2026-09-09T10:15:14.442Z",
+  "submissionTimestamp": "2026-09-09T11:13:35.774Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Hard",
+  "difficulty": "Medium",
   "tags": [
-    "Math",
-    "String",
-    "Dynamic Programming"
+    "Array",
+    "Dynamic Programming",
+    "Binary Indexed Tree",
+    "Segment Tree"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "2",
-  "problemUrl": "https://leetcode.com/problems/count-of-integers/description/",
-  "submissionId": "u5ogxh"
+  "problemUrl": "https://leetcode.com/problems/count-number-of-teams/description/",
+  "submissionId": "1nurba"
 }
