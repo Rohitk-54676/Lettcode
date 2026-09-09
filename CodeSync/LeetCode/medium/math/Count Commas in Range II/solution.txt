@@ -7,7 +7,7 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-09T09:28:25.701Z
+ * Synced: 2026-09-09T09:29:25.699Z
  */
 
 if(n>=1000000){
