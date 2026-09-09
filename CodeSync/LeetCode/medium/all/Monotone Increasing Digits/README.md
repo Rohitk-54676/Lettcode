@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/monotone-increasing-digits/description/
-- Synced: 2026-09-09T11:26:12.803Z
+- Synced: 2026-09-09T11:27:02.806Z
 
 ## Problem Description
 
