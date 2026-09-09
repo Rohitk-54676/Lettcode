@@ -7,17 +7,21 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-09T10:04:25.693Z
+ * Synced: 2026-09-09T10:05:11.652Z
  */
 
 if(n>=1000000){
-            result+=(n-999999)*2;
-            n=999999;
         }
-        if(n>=1000){
-            result+=n-999;
+            n=999999999;
+
         }
-        return result;
-        
-    }
-};
+        if(n>=1000000000 ){
+            result+=(n-999999999)*3;
+            result+=(n-999999999999)*4;
+            n=999999999999;
+
+        if(n>=1000000000000LL){
+class Solution {
+public:
+    long long countCommas(long long n) {
+        long long result=0;
