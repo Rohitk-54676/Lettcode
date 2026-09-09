@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-09T10:13:43.233Z",
+  "submissionTimestamp": "2026-09-09T10:14:38.016Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "8.91 MB",
   "difficulty": "Medium",
   "tags": [
     "Math"
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "Daily Question",
   "problemTitle": "Count Commas in Range II",
-  "problemUrl": "https://leetcode.com/problems/count-commas-in-range-ii/?envType=daily-question&envId=2026-09-09",
-  "submissionId": "ymigjc"
+  "problemUrl": "https://leetcode.com/problems/count-commas-in-range-ii/submissions/2136195762/?envType=daily-question&envId=2026-09-09",
+  "submissionId": "4hlgl6"
 }
