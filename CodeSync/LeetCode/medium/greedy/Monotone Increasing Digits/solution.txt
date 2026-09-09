@@ -1,27 +1,25 @@
 /*
  * Platform: LeetCode
  * Problem: Monotone Increasing Digits
- * URL: https://leetcode.com/problems/monotone-increasing-digits/
+ * URL: https://leetcode.com/problems/monotone-increasing-digits/description/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Math, Greedy
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-09T11:21:06.748Z
+ * Synced: 2026-09-09T11:22:05.851Z
  */
 
-class Solution {
-public:
-    // bool check(int n){
-    //     string str=to_string(n);
-    //     for(int i=0;i<str.size()-1;i++){
-    //         if(str[i]>str[i+1])return false;
-    //     }
-    //     return true;
-    // }
-    int monotoneIncreasingDigits(int n) {
-        if(n<10)return n;
-        // while(n){
-        //     if(check(n)){
+//     }
+        //     n--;
+        // }
+        // return -1;
+        vector<int> res;
+        while(n){
+            res.insert(res.begin(),n%10);
+            n/=10;
         //         return n;
-        //     }
+        //     if(check(n)){
+        }
+    }
+};
