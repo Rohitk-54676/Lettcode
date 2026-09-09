@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/count-commas-in-range-ii/?envType=daily-question&envId=2026-09-09
-- Synced: 2026-09-09T09:32:25.694Z
+- Synced: 2026-09-09T09:33:25.696Z
 
 ## Problem Description
 
