@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 2
+ * URL: https://leetcode.com/problems/count-of-integers/description/
+ * Language: Problem List
+ * Difficulty: Hard
+ * Topics: Math, String, Dynamic Programming
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-09T10:15:14.442Z
+ */
+
+class Solution {
+public:
+    int count(string num1, string num2, int min_sum, int max_sum) {
+        
+    }
+};
