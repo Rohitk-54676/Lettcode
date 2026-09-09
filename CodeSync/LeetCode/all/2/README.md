@@ -1,18 +1,18 @@
 # 2
 
 - Platform: LeetCode
-- Language: Problem List
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Binary Indexed Tree, Segment Tree
-- Runtime: N/A
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/count-number-of-teams/description/
-- Synced: 2026-09-09T11:13:35.774Z
+- Language: C
+- Difficulty: Unknown
+- Topics: Uncategorized
+- Runtime: 0 ms
+- Memory: 165.76 MB
+- Problem URL: https://leetcode.com/submissions/detail/2129184903/
+- Synced: 2026-09-09T11:18:38.631Z
 
 ## Problem Description
 
-There are n soldiers standing in a line. Each soldier is assigned a unique rating value. You have to form a team of 3 soldiers amongst them under the following rules: Choose 3 soldiers with index (i, j, k) with rating (rating[i], rating[j], rating[k]). A team is valid if: (rating[i] < rating[j] < rating[k]) or (rating[i] > rating[j] > rating[k]) where (0 <= i < j < k < n). Return the number of teams you can form given the conditions. (soldiers can be part of multiple teams). Example 1: Input: rating = [2,5,3,4,1] Output: 3 Explanation: We can form three teams given the conditions. (2,3,4), (5,4,1), (5,3,1). Example 2: Input: rating = [2,1,3] Output: 0 Explanation: We can't form any team given the conditions. Example 3: Input: rating = [1,2,3,4] Output: 4 Constraints: n == rating.length 3 <= n <= 1000 1 <= rating[i] <= 105 All the integers in rating are unique.
+Problem description was not available on the page at sync time.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array, Dynamic Programming, Binary Indexed Tree, Segment Tree. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using C. Review the synced source file for the implementation details.
