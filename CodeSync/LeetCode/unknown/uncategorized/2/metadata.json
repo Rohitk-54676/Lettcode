@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-09T11:18:38.631Z",
-  "runtime": "0 ms",
-  "memoryUsage": "165.76 MB",
+  "submissionTimestamp": "2026-09-09T11:20:03.158Z",
+  "runtime": "7 ms",
+  "memoryUsage": "202.56 MB",
   "difficulty": "Unknown",
   "tags": [
     "Uncategorized"
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "C",
   "problemTitle": "2",
-  "problemUrl": "https://leetcode.com/submissions/detail/2129184903/",
-  "submissionId": "j7o3qs"
+  "problemUrl": "https://leetcode.com/submissions/detail/2131815606/",
+  "submissionId": "wbgm3m"
 }
