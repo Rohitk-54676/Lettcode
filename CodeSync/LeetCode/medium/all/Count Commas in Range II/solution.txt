@@ -1,27 +1,26 @@
 /*
  * Platform: LeetCode
  * Problem: Count Commas in Range II
- * URL: https://leetcode.com/problems/count-commas-in-range-ii/?envType=daily-question&envId=2026-09-09
+ * URL: https://leetcode.com/problems/count-commas-in-range-ii/submissions/2136195762/?envType=daily-question&envId=2026-09-09
  * Language: Daily Question
  * Difficulty: Medium
  * Topics: Math
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-09-09T10:13:43.233Z
+ * Memory: 8.91 MB
+ * Synced: 2026-09-09T10:14:38.016Z
  */
 
-n = 999999999LL;
+if(n >= 1000000000000LL){
+            result += (n - 999999999999LL) * 4;
+            n = 999999999999LL;
+        }
+            n = 999999999999999LL;
         }
 
-        if(n >= 1000000LL){
-            result += (n - 999999LL) * 2;
-            n = 999999LL;
-        }
-
-        if(n >= 1000LL){
-            result += n - 999;
-        }
-
-        return result;
-    }
-};
+        if(n >= 1000000000000000LL){
+            result += (n - 999999999999999LL) * 5;
+    long long countCommas(long long n) {
+        long long result = 0;
+        if(n >= 1000000000LL){
+            result += (n - 999999999LL) * 3;
+            n = 999999999LL;
