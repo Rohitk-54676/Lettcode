@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-12T05:57:03.885Z",
+  "submissionTimestamp": "2026-09-12T05:57:49.912Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "15.80 MB",
   "difficulty": "Medium",
   "tags": [
     "Tree",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Daily Question",
   "problemTitle": "Count Nodes Equal to Average of Subtree",
-  "problemUrl": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/?envType=daily-question&envId=2026-09-10",
-  "submissionId": "9gtvae"
+  "problemUrl": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/2139179042/?envType=daily-question&envId=2026-09-10",
+  "submissionId": "sendo2"
 }
