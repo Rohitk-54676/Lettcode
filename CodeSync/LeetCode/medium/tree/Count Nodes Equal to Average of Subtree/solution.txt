@@ -7,7 +7,7 @@
  * Topics: Tree, Depth-First Search, Binary Tree
  * Runtime: 0 ms
  * Memory: 15.80 MB
- * Synced: 2026-09-12T06:04:23.706Z
+ * Synced: 2026-09-12T06:05:16.043Z
  */
 
 auto right=dfs(root->right);
