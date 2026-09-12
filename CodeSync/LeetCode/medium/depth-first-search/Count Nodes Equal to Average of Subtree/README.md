@@ -5,9 +5,9 @@
 - Difficulty: Medium
 - Topics: Tree, Depth-First Search, Binary Tree
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/?envType=daily-question&envId=2026-09-10
-- Synced: 2026-09-12T05:57:03.885Z
+- Memory: 15.80 MB
+- Problem URL: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/2139179042/?envType=daily-question&envId=2026-09-10
+- Synced: 2026-09-12T05:57:49.912Z
 
 ## Problem Description
 
