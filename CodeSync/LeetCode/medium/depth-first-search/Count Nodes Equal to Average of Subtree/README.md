@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 15.80 MB
 - Problem URL: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/2139179042/?envType=daily-question&envId=2026-09-10
-- Synced: 2026-09-12T05:59:29.898Z
+- Synced: 2026-09-12T06:00:20.902Z
 
 ## Problem Description
 
