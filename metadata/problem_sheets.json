@@ -16,5 +16,6 @@
   "leetcode:unknown-problem": [],
   "leetcode:2": [],
   "leetcode:monotone-increasing-digits": [],
-  "leetcode:count-nodes-equal-to-average-of-subtree": []
+  "leetcode:count-nodes-equal-to-average-of-subtree": [],
+  "leetcode:reverse-degree-of-a-string": []
 }
